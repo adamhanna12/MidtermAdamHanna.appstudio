@@ -18,8 +18,24 @@
           "!type": "External", 
           "file": [
             "forms", 
-            "Animals", 
-            "Animals.json"
+            "animals", 
+            "animals.json"
+          ]
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
+            "calculate", 
+            "calculate.json"
+          ]
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
+            "incomeBracket", 
+            "incomeBracket.json"
           ]
         }
       ], 
@@ -35,7 +51,7 @@
       "eslintRules": null, 
       "expanded_pmp": null, 
       "extraheaders": null, 
-      "firstform": "Form1", 
+      "firstform": "animals", 
       "fontFamily": "system", 
       "homescreenTitle": "", 
       "icon": "nsb/images/192.png", 
